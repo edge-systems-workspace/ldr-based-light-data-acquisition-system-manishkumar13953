@@ -27,6 +27,6 @@ void loop() {
     Serial.println(ldrValue);
 
     Serial.println(lightPercent);
-
+// hii
     delay(300);
 }
